@@ -5,7 +5,7 @@
     </head>
     <body>
 		<div class="speedometer">
-			<div class="geardisplay">Số <span>1</span></div>
+			<div class="geardisplay">Sốx <span>1</span></div>
 			<div class="speeddisplay"><span class="gray int1">0</span><span class="gray int2">0</span><span class="gray int3">0</span></div>
 			<div class="unitdisplay">KM/H</div>
 			<div class="abs"><span class="gray">ABS</span></div>
